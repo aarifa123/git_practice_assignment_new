@@ -6,8 +6,8 @@ function checkprime(num){
 		}
 	}
 	if(count==2){
-console.log({"YES"})
+console.log({num,"is prime"})
 	}else{
-		console.log("No")
+		console.log(num,"is not prime")
 	}
 }
